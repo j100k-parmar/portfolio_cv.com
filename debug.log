@@ -1,1 +1,2 @@
 [0122/140835.024:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0204/141936.762:ERROR:filesystem_win.cc(148)] DeleteFile c:\Users\Kiran Solanki\AppData\Roaming\Code\User\workspaceStorage\6c951f53dd6716980338154629a5f6ae\ms-vscode.js-debug\.profile\Crashpad\reports\63d56ec3-1f3b-4b24-9076-4d7cd8e74381.dmp: The process cannot access the file because it is being used by another process. (0x20)
